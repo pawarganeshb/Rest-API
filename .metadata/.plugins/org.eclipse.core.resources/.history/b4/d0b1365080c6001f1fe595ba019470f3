@@ -1,0 +1,14 @@
+package com.ganesh.rest.entity;
+
+import jakarta.persistence.Entity;
+import jakarta.persistence.Table;
+import lombok.Data;
+
+@Entity
+@Data
+@Table(name = "rest_products")
+public class Products {
+	private Integer id;
+	private String name;
+	private Double price;
+}

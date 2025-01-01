@@ -1,0 +1,3 @@
+spring.application.name=REST-API-Products
+#MYSQL Properties
+spring.datasource.url=jdbc:mysql://ganesh

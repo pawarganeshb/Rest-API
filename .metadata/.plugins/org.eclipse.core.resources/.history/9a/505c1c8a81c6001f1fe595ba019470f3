@@ -1,0 +1,12 @@
+spring.application.name=REST-API-Products
+
+#MYSQL Properties
+spring.datasource.driver-class-name= com.mysql.cj.jdbc.Driver
+spring.datasource.url=jdbc:mysql:///ganesh
+spring.datasource.username=root
+spring.datasource.password=root
+
+
+#JPA/ ORM Propeties
+spring.jpa.show-sql=true
+spring.jpa.hibernate.ddl-auto=update

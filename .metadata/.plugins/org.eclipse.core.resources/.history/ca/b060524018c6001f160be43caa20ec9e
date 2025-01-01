@@ -1,0 +1,12 @@
+package com.ganesh.rest.entity;
+
+import jakarta.persistence.Entity;
+import lombok.Data;
+
+@Entity
+@Data
+public class Products {
+	private Integer id;
+	private String name;
+	private Double price;
+}
