@@ -13,6 +13,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.ganesh.rest.model.Address;
 import com.ganesh.rest.model.Employee;
+import org.springframework.web.bind.annotation.RequestParam;
 
 @RestController
 @RequestMapping("/api/employees")
@@ -31,5 +32,12 @@ public class EmployeeController {
 				Map.of("P1", 101));
 		return new ResponseEntity<>(employee, HttpStatus.OK);
 	}
+
+	@GetMapping
+	public ResponseEntity<String> getNameWithID(@RequestParam Integer id, @RequestParam String name) {
+	    String responseMessage = "ID: " + id + ", Name: " + name;
+	    return ResponseEntity.ok(responseMessage);
+	}
+
 
 }
