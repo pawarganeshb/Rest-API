@@ -11,9 +11,9 @@ import com.app.exceptions.ProductNotFoundException;
 public class ExceptionController {
 
     @ExceptionHandler(ProductNotFoundException.class)
-    public ResponseEntity<String> handleException(ProductNotFoundException product) {
+    public ResponseEntity<String> handleException(String string) {
         // Return an error message with HTTP status 404 (Not Found)
-        return new ResponseEntity<>("Product Not Found: " + product.getMessage(), HttpStatus.NOT_FOUND);
+        return new ResponseEntity<>("Product Not Found: " + string.getMessage(), HttpStatus.NOT_FOUND);
     }
 
     // Handle all other exceptions
