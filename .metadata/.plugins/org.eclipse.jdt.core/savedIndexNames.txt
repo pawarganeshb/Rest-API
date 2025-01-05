@@ -2,6 +2,4 @@ INDEX VERSION 1.134+D:\PROGRAMS\Spring Boot\Rest API\.metadata\.plugins\org.ecli
 2483725488.index
 2730627201.index
 2054009404.index
-2668046179.index
-1071769794.index
 1865797976.index
