@@ -1,7 +1,5 @@
 package com.app.exceptions;
 
-import com.app.handler.ExceptionController;
-
 public class ProductNotFoundException extends RuntimeException {
 
 	/**
@@ -9,9 +7,8 @@ public class ProductNotFoundException extends RuntimeException {
 	 */
 	private static final long serialVersionUID = 1L;
 
-	public ProductNotFoundException(ExceptionController ex) {
+	public ProductNotFoundException(String string) {
 		super();
-		ex.handleException("Product Not Found");
 
 	}
 
