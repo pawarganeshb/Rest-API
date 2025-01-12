@@ -1,7 +1,0 @@
-package com.ganesh.rest.entity;
-
-public class Products {
-private Integer id;
-private String name;
-private 
-}

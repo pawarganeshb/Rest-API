@@ -264,3 +264,53 @@
 2025-01-05 18:48:12,448 [Worker-48: Launching 05-REST-API-Exceptions - Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
 2025-01-05 18:48:12,775 [Worker-48: Launching 05-REST-API-Exceptions - Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
 2025-01-05 18:48:12,779 [Worker-48: Launching 05-REST-API-Exceptions - Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\PROGRAMS\Spring Boot\Rest API\05-REST-API-Exceptions\src\test\resources
+2025-01-08 11:38:26,733 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-01-08 14:17:32,209 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-01-08 14:18:31,444 [Worker-10: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.app:06-REST-API-Producer:0.0.1-SNAPSHOT @ D:\PROGRAMS\Spring Boot\Rest API\06-REST-API-Producer\pom.xml.
+2025-01-08 14:18:35,393 [Worker-10: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /06-REST-API-Producer/src/main/java
+2025-01-08 14:18:35,395 [Worker-10: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /06-REST-API-Producer/src/main/resources
+2025-01-08 14:18:35,411 [Worker-10: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /06-REST-API-Producer/src/main/resources
+2025-01-08 14:18:35,422 [Worker-10: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /06-REST-API-Producer/src/test/java
+2025-01-08 14:18:35,424 [Worker-10: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /06-REST-API-Producer/src/test/resources
+2025-01-08 14:18:35,839 [Worker-10: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 9 sec
+2025-01-08 14:18:35,844 [Worker-10: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2025-01-08 14:18:36,383 [Worker-10: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.app:06-REST-API-Producer:0.0.1-SNAPSHOT @ D:\PROGRAMS\Spring Boot\Rest API\06-REST-API-Producer\pom.xml.
+2025-01-08 14:18:37,168 [Worker-10: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /06-REST-API-Producer/src/main/java
+2025-01-08 14:18:37,168 [Worker-10: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /06-REST-API-Producer/src/main/resources
+2025-01-08 14:18:37,170 [Worker-10: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /06-REST-API-Producer/src/main/resources
+2025-01-08 14:18:37,171 [Worker-10: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /06-REST-API-Producer/src/test/java
+2025-01-08 14:18:37,172 [Worker-10: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /06-REST-API-Producer/src/test/resources
+2025-01-08 14:18:37,961 [Worker-10: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 1.00 sec, update config takes 0.00 sec 
+2025-01-08 14:18:38,223 [Worker-12: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2025-01-08 14:18:38,857 [Worker-12: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.app:06-REST-API-Producer:0.0.1-SNAPSHOT @ D:\PROGRAMS\Spring Boot\Rest API\06-REST-API-Producer\pom.xml.
+2025-01-08 14:18:39,398 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /06-REST-API-Producer/src/main/java
+2025-01-08 14:18:39,399 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /06-REST-API-Producer/src/main/resources
+2025-01-08 14:18:39,400 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /06-REST-API-Producer/src/main/resources
+2025-01-08 14:18:39,405 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /06-REST-API-Producer/src/test/java
+2025-01-08 14:18:39,406 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /06-REST-API-Producer/src/test/resources
+2025-01-08 14:18:39,706 [Worker-12: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 1.00 sec, update config takes 0.00 sec 
+2025-01-08 16:11:47,157 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-01-08 17:09:37,204 [Worker-34: Launching 06-REST-API-Producer - Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-08 17:09:37,239 [Worker-34: Launching 06-REST-API-Producer - Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-08 17:09:37,247 [Worker-34: Launching 06-REST-API-Producer - Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\PROGRAMS\Spring Boot\Rest API\06-REST-API-Producer\src\test\resources
+2025-01-08 17:10:52,742 [Worker-33: Launching 06-REST-API-Producer - Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-08 17:10:52,770 [Worker-33: Launching 06-REST-API-Producer - Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-08 17:10:52,776 [Worker-33: Launching 06-REST-API-Producer - Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\PROGRAMS\Spring Boot\Rest API\06-REST-API-Producer\src\test\resources
+2025-01-08 17:17:38,399 [Worker-40: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.app:07-REST-API-Producer-Consumer:0.0.1-SNAPSHOT @ D:\PROGRAMS\Spring Boot\Rest API\07-REST-API-Producer-Consumer\pom.xml.
+2025-01-08 17:17:39,509 [Worker-40: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /07-REST-API-Producer-Consumer/src/main/java
+2025-01-08 17:17:39,512 [Worker-40: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /07-REST-API-Producer-Consumer/src/main/resources
+2025-01-08 17:17:39,522 [Worker-40: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /07-REST-API-Producer-Consumer/src/main/resources
+2025-01-08 17:17:39,532 [Worker-40: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /07-REST-API-Producer-Consumer/src/test/java
+2025-01-08 17:17:39,533 [Worker-40: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /07-REST-API-Producer-Consumer/src/test/resources
+2025-01-08 17:17:39,840 [Worker-40: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 2 sec
+2025-01-08 17:17:39,845 [Worker-40: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2025-01-08 17:17:40,201 [Worker-40: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.app:07-REST-API-Producer-Consumer:0.0.1-SNAPSHOT @ D:\PROGRAMS\Spring Boot\Rest API\07-REST-API-Producer-Consumer\pom.xml.
+2025-01-08 17:17:40,602 [Worker-40: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /07-REST-API-Producer-Consumer/src/main/java
+2025-01-08 17:17:40,603 [Worker-40: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /07-REST-API-Producer-Consumer/src/main/resources
+2025-01-08 17:17:40,604 [Worker-40: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /07-REST-API-Producer-Consumer/src/main/resources
+2025-01-08 17:17:40,605 [Worker-40: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /07-REST-API-Producer-Consumer/src/test/java
+2025-01-08 17:17:40,605 [Worker-40: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /07-REST-API-Producer-Consumer/src/test/resources
+2025-01-08 17:17:41,011 [Worker-40: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2025-01-08 17:26:12,996 [Worker-40: Launching 07-REST-API-Producer-Consumer - Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-08 17:26:13,017 [Worker-40: Launching 07-REST-API-Producer-Consumer - Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-08 17:26:13,025 [Worker-40: Launching 07-REST-API-Producer-Consumer - Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\PROGRAMS\Spring Boot\Rest API\07-REST-API-Producer-Consumer\src\test\resources
